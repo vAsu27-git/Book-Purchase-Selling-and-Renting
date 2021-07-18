@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Books4All</string>
+    <string name="title_activity_nav">Books4All</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="detail">Profile Detail</string>
+    <string name="coreteam">Core Team</string>
+    <string name="mycolor">#3aa8c1</string>
+    <string name="address">Add your Address</string>
+    <string name="zipcode">Zip Code</string>
+    <string name="loginEmail">Enter Email</string>
+    <string name="loginPass">Enter Password</string>
+    <string name="description">Don\'t have account?</string>
+    <string name="signup">SignUp</string>
+    <string name="name">Enter Name</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="conform">Conform Password</string>
+    <string name="profile">PROFILE</string>
+    <string name="desh">__________________________________</string>
+    <string name="personal">Personal Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="aksh">Aksh Maradiya Jiteshbhai</string>
+    <string name="number">9712891011</string>
+    <string name="indian">+91</string>
+    <string name="email_fach">akshmaradiya@gmail.com</string>
+    <string name="mvr">Manavadar</string>
+    <string name="logout">Logout</string>
+    <string name="baccktohome">Home</string>
+    <string name="UplodeDetails">Upload details</string>
+    <string name="authorName">Author Name</string>
+    <string name="bookname">Book Name</string>
+    <string name="sellingprice">Selling Price(₹)</string>
+    <string name="rentingprice">Renting Price(₹)</string>
+    <string name="booktype">Book Type</string>
+    <string name="renting">Renting</string>
+    <string name="uplode">Upload</string>
+    <string name="next">Next</string>
+    <string name="author">JWB Douglas</string>
+    <string name="type">educational</string>
+    <string name="sellprice">3000</string>
+    <string name="rentprice">500</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="uploadImg">Click and upload book image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchHint">Search bookname hear...</string>
+    <string name="verifyEmail">please verify your email</string>
+    <string name="verifiyMail">Verification mail sent to the your email address</string>
+    <string name="sellButton">sell</string>
+    <string name="LogInHead">LogIn</string>
+    <string name="Books4AllName">Books4All</string>
+    <string name="Emaillogin">Email</string>
+    <string name="Passwordlogin">Password</string>
+    <string name="Createnewaccount">Create new account</string>
+    <string name="mailResiver">you have not received mail then</string>
+    <string name="VerifiyAgain">VerifiyAgain</string>
+    <string name="WhatsappNumber">Whatsapp Number</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Namesu">Name</string>
+    <string name="Phonesu">Phone</string>
+    <string name="ConformPassword">Confirm Password</string>
+    <string name="LogIninstead">LogIn instead</string>
+    <string name="todo">TODO</string>
+    <string-array name="year">
+        <item>Per Day</item>
+        <item>Per week</item>
+        <item>Per Month</item>
+        <item>per year</item>
+    </string-array>
+    <string name="ak">Aksh Maradiya is currently doing B.Tech CE at GUNI Mehsana. He handle whole of database, backend system and fix error of Book4All</string>
+    <string name="aboutapp">Team want to develop this system because  many people can’t buy new books every time so they can purchase old books and also sell these books again.
+        Easily create network between different users.You can contact to your favourite user easily.
+</string>
+    <string name="vs">Vasu Hudka is a student at GUNI Mehsana  doing B.Tech in CE. He handle whole of design and checked out some senario of Books4All </string>
+</resources>
